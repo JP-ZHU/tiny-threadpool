@@ -1,12 +1,3 @@
-/*
- * @Author: zhu
- * @Date: 2024-08-16 15:47:19
- * @LastEditors: zhu 3180104456@zju.edu.cn
- * @LastEditTime: 2024-09-07 18:24:17
- * @FilePath: \tiny threadpool\demo_2.cpp
- * @Description: 
- * 
- */
 #include <iostream>
 #include <vector>
 #include <chrono>
